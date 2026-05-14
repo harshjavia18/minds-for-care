@@ -1,9 +1,7 @@
 # 🧠 Minds for Care — UX Pivot Project
 
 **Global Concern for Mental Health Across Countries (2020–2024)**  
-*Assignment 2 — Data Visualisation UX Pivot*
 
-**Student:** Harsh Javia | **Student ID:** 26138800  
 **Original Viz:** Ananya Dikshit (Tableau VOTD, B2VB2025 Week 20)  
 **Pivot Tool:** Datawrapper  
 **Live Chart:** [datawrapper.de/_/CNmJB](https://www.datawrapper.de/_/CNmJB/)
